@@ -1,5 +1,5 @@
 # Tkinter-password-generator
-Python-based password generator to create strong passwords + this is my first repository :)
+Python-based password generator to create strong passwords + this is my first repository and the most cringy one, may delete later :
 
 
 # How does it work ?
